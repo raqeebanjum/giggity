@@ -10,3 +10,5 @@
 ## commit 10: pushign changest to the master branch
 ## 11: merging bug-fix-experimental to bug-fix branch
 ## commit 12: pushing changes to the bug-fix branch
+## 13: Merging bug-fix branch to master branch
+## Commit 14: Pushing the final changes to master branch
